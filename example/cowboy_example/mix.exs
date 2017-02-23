@@ -18,7 +18,7 @@ defmodule CowboyExample.Mixfile do
 
   defp deps do
     [
-      {:raxx_cowboy, "~> 0.1.1",}
+      {:raxx_cowboy, "~> 0.1.1"}
     ]
   end
 end
